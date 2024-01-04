@@ -22,7 +22,7 @@ I been all around this world
 
 Put the rope around my neck and hang me up so high
 Put the rope around my neck and hang me up so high
-Last words I heard 'em say
+Last words I heard 'em say, poor boy
 I been all around this world
 
 Hang me, oh, hang me, I'll be dead and gone
