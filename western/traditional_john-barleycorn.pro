@@ -1,6 +1,6 @@
 {t:John Barleycorn}
 {st:Traditional}
-{capo:7}
+{capo:3}
 
 [D][C][G][Am][A5][Am][A5]
 
