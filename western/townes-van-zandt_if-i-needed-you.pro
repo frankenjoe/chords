@@ -15,8 +15,7 @@ And that would break my heart in two
 The lady's with me now since I showed her how
 To lay her lily hand in mine
 Who would not agree, she's a sight to see
-And a treasure for the poor to find 
+And a treasure for the poor to find
 
 If I needed you, would you come to me?
 Would you come to me for to ease my pain?
-

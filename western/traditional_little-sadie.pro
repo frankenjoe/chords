@@ -13,7 +13,7 @@ The gents and gamblers standing all round,
 Taking little Sadie to her burying ground
 
 Begin to think what a deed I'd done
-Grabbed my hat and away I run, 
+Grabbed my hat and away I run,
 Made a good run, but a little too slow
 They overtook me down in Jericho
 
@@ -36,4 +36,3 @@ The judge and jury they took the stand
 The judge had the paper in his right hand
 Forty-one days, forty-one nights,
 Forty-one years to wear the ball and stripes
-

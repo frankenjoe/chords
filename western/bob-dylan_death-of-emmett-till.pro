@@ -22,7 +22,7 @@ Two brothers they confessed that they had killed poor Emmett Till.
 But on the jury there were men who helped commit this awful crime,
 So this trial was a mockery, but nobody seemed to mind.
 
-I saw the morning papers but I could not bear 
+I saw the morning papers but I could not bear
 To see the smiling brothers walkin' down the courthouse stairs.
 For the jury found them innocent, the brothers they went free,
 While Emmett's body floats the foam of a Jim Crow southern sea.
@@ -31,4 +31,3 @@ This song's just a reminder to remind your fellow man
 That this kind of thing still lives today in that ghost-robed Ku Klux Klan.
 But if all we folks who think alike, if we gave all we could give,
 We can make this great land of ours a greater place to live.
-

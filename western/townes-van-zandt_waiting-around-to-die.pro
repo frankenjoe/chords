@@ -23,12 +23,11 @@ It was easier than just waiting around to die
 My friend said he knew where some easy money was
 We robbed a man and brother did we fly
 The police caught up with me
-drug me back to muskogee
+Drug me back to muskogee
 Now it's two long years of waiting around to die.
 
 Now I'm out of prison I got me a friend at last
 He don't drink, or  cheat, or steal, or lie
 His name's codeine
-he's the finest thing I've seen
-and together we're gonna wait around to die.
-
+He's the finest thing I've seen
+And together we're gonna wait around to die.

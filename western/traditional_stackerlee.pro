@@ -51,7 +51,7 @@ The sheriff he got Stackerlee,
 When he jumped up on his feet,
 He's a bad man, oh, cruel Stackerlee
 
-Stack says to the jailer, 
+Stack says to the jailer,
 Jailer, I can't sleep,
 Cause all around my bedside,
 Billy Lyon begins to creep,

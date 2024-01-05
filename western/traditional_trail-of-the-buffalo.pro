@@ -36,7 +36,7 @@ Until the season's through
 But if you do get homesick
 And try to run away
 You will starve to death
-And also lose your pay 
+And also lose your pay
 
 {soc}
 On the [C]trail, on the [Am]trail
@@ -78,4 +78,3 @@ On the trail, on the trail
 On the trail, on the trail
 On the trail
 {eoc}
-

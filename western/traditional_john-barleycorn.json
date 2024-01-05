@@ -1,0 +1,38 @@
+// Configuration for ChordPro.
+//
+// This is a relaxed JSON document, so comments are possible.
+
+{
+    // Layout definitions for PDF output.
+
+    "pdf" : {
+
+		// Fonts.
+
+		"fonts" : {
+			"title" : {
+			"name" : "Helvetica-Bold",
+			},
+			"text" : {
+			"name" : "Helvetica",
+			"size" : 11
+			},
+			"chord" : {
+			"name" : "Helvetica-Bold",
+			"size" : 10
+			},
+			"comment" : {
+			"name" : "Helvetica",
+			"size" : 12
+			},
+			"toc" : {
+			"name" : "Helvetica",
+			"size" : 11
+			},
+		},
+
+    },
+
+}
+// End of config.
+

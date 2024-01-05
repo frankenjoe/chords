@@ -3,9 +3,9 @@
 {capo: 2}
 
 [C]Freight train, freight train, [G7]goin' so fast,
-[G]freight train, freight train, [C]goin' so fast
+[G]Freight train, freight train, [C]goin' so fast
 [E7]Please don't tell what [F]train I'm on,
-so they [C]won't know [G7]where I'm [C]gone
+So they [C]won't know [G7]where I'm [C]gone
 
 When I'm dead and in my grave
 No more good times here I crave
@@ -26,4 +26,3 @@ Freight train, freight train, run so fast
 Freight train, freight train, run so fast
 Please don't tell what train I'm on
 They won't know what route I'm going
-

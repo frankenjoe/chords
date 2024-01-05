@@ -42,4 +42,3 @@ The angels laid him away,
 They laid him six feet under the clay
 The angels laid him away
 {eoc}
-

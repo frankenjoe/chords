@@ -39,4 +39,3 @@ That he could see her body and they could see his face.
 
 He made no confession but they carried him to jail,
 No friends or relations would go on his bail.
-

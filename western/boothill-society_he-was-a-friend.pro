@@ -2,7 +2,7 @@
 {st:Boothill Society}
 {capo: 4}
 
-[G]    [B7]   [Em]   [C]    
+[G]    [B7]   [Em]   [C]
 
 [G]He was a friend, he [C/G]was a fr[G]iend
 [G]He was a friend, he [C/G]was a fr[G]iend
@@ -28,11 +28,10 @@ And so they caught me in my tree
 And I had to answer for my deed
 He was a friend, my only friend
 
-[G]    [C]    
+[G]    [C]
 [G]    [B7]   [Em]   [C]
-    
+
 And now they've dressed me all in black
 And now they've dressed me all in black
 And they gonna hang me up so high
 Until my body is dead and dry
-

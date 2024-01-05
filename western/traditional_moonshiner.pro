@@ -29,4 +29,3 @@ And the [G]whole world is a [G7]bottle
 And [C]life is but a [F]dram
 When the [Am]bottle [F]gets [C]empty
 [Am]Life [F]ain't worth a [C]damn
-

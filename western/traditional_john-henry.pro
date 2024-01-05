@@ -1,8 +1,8 @@
-{t:Johny Henry}
+{t:John Henry}
 {st:Traditional}
 {capo: 2}
 
-[G] 
+[G]
 
 John Henry, was a steel-driving man
 And now he's dead, and now he's dead
@@ -23,4 +23,3 @@ Take this hammer and carry it to my captain
 John Henry, he left his hammer
 Painted in red, all painted in red
 John Henry, he left his hammer
-

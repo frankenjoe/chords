@@ -45,7 +45,6 @@ From the gallows tree
 
 {soc}
 Yes I have brought you hope
-and I have paid your fee
+And I have paid your fee
 I have not come to see you hanging
 {eoc}
-

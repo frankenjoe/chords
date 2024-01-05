@@ -1,4 +1,4 @@
-{t:500 miles}
+{t:500 Miles}
 {st:Hedy West}
 {capo: 2}
 
@@ -19,4 +19,3 @@ Lord, I can't go a-home this a-way
 
 If you miss the train I'm on, you will know that I am gone
 You can hear the whistle blow a hundred miles
-

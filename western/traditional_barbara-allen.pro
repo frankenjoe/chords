@@ -46,4 +46,3 @@ They grew and grew in the old churchyard
 Till they could grow no higher
 At the end they formed, a true lover's knot
 The rose around the briar.
-
