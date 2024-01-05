@@ -54,3 +54,4 @@ Oh what a shame, oh what a shame
 Oh brother break the chains
 [F]Everybody [G]break the [Am]chains [F] [G] [C]
 {eoc}
+

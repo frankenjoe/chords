@@ -31,3 +31,4 @@ This song's just a reminder to remind your fellow man
 That this kind of thing still lives today in that ghost-robed Ku Klux Klan.
 But if all we folks who think alike, if we gave all we could give,
 We can make this great land of ours a greater place to live.
+

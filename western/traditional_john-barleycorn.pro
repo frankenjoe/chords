@@ -2,15 +2,17 @@
 {st:Traditional}
 {capo:7}
 
-There [D]were three [Am]men came [C]out [G]of the [Am]wes[A5]t,[Am][A5]
+[D][C][G][Am][A5][Am][A5]
+
+There [D]were three [Am]men came [C]out [G]of the [Am]wes[A5]t[Am][A5]
 Their [D]fortunes [C]for [G]to [Am]try[A5][Am][A5]
 And [D]these three [Am]men made a [C]so[G]lemn [Am]vow[A5]:[Am][A5]
 John [D]Barley[C]corn [G]must [Am]die[A5].[Am][A5]
 
-They've ploughed, they've sown, they've harrowed him in
-Threw clods upon his head
-And these three men made a solemn vow:
-John Barleycorn was dead
+They've [C]ploughed, they've sown, [G/B]they've [Am]harrowed [A5]him [Am]in
+Threw [C]clods at [D]Barley's [Esus]head[E][Esus][E]
+And [Dm]these three [Am]men made a [C]so[G]lemn [Am]vow[A5]:[Am][A5]
+John [D]Barley[C]corn [G]was [Am]dea[A5]d[Am][A5]
 
 They've let him lie for a very long time
 Till the rains from heaven did fall
@@ -51,3 +53,4 @@ The huntsman, he can't hunt the fox
 Nor so loudly to blow his horn
 And the tinker he can't mend kettle nor pot
 Without a little Barleycorn
+

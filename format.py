@@ -119,7 +119,7 @@ def main(args):
             strip_lines(lines)
             capitalize_title(lines)
             capitalize_lyrics(lines)
-            lines = '\n'.join(lines) + '\n'
+            lines = '\n'.join(lines) + '\n\n'
         with open(path, 'w') as fp:
             fp.writelines(lines)
 

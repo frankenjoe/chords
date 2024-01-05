@@ -30,3 +30,4 @@ Would he shoot his [E7]brother and sister [Am]down?
 Well, have you [Am/G]seen that [F]vigilante [E7]man?
 Well, have you [Am/G]seen that [F]vigilante [Am]man?
 I've heard his name [E7]all over this [Am]land.
+
