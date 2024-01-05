@@ -1,4 +1,4 @@
-{t:The Boy Who Wouldn'T Hoe Corn}
+{t:The Boy Who Wouldn't Hoe Corn}
 {st:Traditional}
 {capo: 7}
 
