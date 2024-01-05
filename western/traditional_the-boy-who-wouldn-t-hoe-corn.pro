@@ -1,6 +1,6 @@
 {t:The Boy Who Wouldn'T Hoe Corn}
 {st:Traditional}
-{capo: 5}
+{capo: 7}
 
 [Dm]Tell you a story, it won't take [Bb]long,
 'Bout a [C]lazy farmer who wouldn't hoe his [Dm]corn.
