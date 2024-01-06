@@ -17,6 +17,10 @@
 			"name" : "Helvetica",
 			"size" : 10
 			},
+			"chorus" : {
+			"name" : "Helvetica",
+			"size" : 10
+			},
 			"chord" : {
 			"name" : "Helvetica-Bold",
 			"size" : 10
