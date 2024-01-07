@@ -26,7 +26,7 @@ They've rolled him and tied him by the way
 Serving him most barbarously
 They've hired men with the sharp pitchforks
 Who pricked him to the heart
-And the loader has served him worse than that
+And the loader he has served him worse than that
 For he's bound him to the cart
 
 They've wheeled him around and around the field
@@ -35,8 +35,8 @@ And there they made a solemn oath
 On poor John Barleycorn
 They've hired men with the crab-tree sticks
 To cut him skin from bone
-And the miller has served him worse than that
-For hground him between two stones
+And the miller he has served him worse than that
+For he's ground him between two stones
 
 And little Sir John and the nut-brown bowl
 And his brandy in the glass
@@ -44,6 +44,6 @@ And little Sir John and the nut-brown bowl
 Proved the strongest man at last
 The huntsman, he can't hunt the fox
 Nor so loudly blow his horn
-And the tinker can't mend kettle nor pot
+And the tinker he can't mend kettle nor pot
 Without a little Barleycorn
 

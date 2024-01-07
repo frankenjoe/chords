@@ -33,7 +33,7 @@ Seven more upon dry land
 One hundred and ten brave sailor men
 Will be at your command
 
-She picked up her own wee babe
+So she picked up her own wee babe
 And kisses gave him three
 "Stay right here with my house carpenter
 And keep him good company"
