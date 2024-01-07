@@ -38,8 +38,6 @@ And kisses gave him three
 "Stay right here with my house carpenter
 And keep him good company"
 
-{column_break}
-
 They had not been gone about two weeks
 I know it was not three
 When this fair lady began to weep
@@ -49,6 +47,8 @@ Oh, why do you weep, my fair young maid
 Weep it for your golden store?
 Or do you weep for your house carpenter
 Who never you shall see no more?
+
+{column_break}
 
 I do not weep for my house carpenter
 And not for any golden store
