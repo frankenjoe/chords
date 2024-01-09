@@ -39,11 +39,11 @@ And the miller he has served him worse than that
 For he's ground him between two stones
 
 And little Sir John and the nut-brown bowl
-And his brandy in the glass
+His brandy in the glass
 And little Sir John and the nut-brown bowl
 Proved the strongest man at last
 The huntsman, he can't hunt the fox
-Nor so loudly blow his horn
+Nor loudly blow his horn
 And the tinker he can't mend kettle nor pot
 Without a little Barleycorn
 

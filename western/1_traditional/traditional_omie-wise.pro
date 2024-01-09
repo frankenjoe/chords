@@ -14,7 +14,6 @@ No money he brought her nor other fine things.
 She climbed up behind him and away they did go.
 Off to the river where deep waters flow.
 
-
 "John Lewis, John Lewis, please tell me no lie.
 Do you intend to marry me or leave me behind?"
 
@@ -26,7 +25,6 @@ I'll go home as a beggar and never be your wife."
 
 He kissed her and hugged her and turned her around,
 Then pushed her in deep waters where he knew that she would drown.
-
 
 Two boys went a-fishin' one fine summer day,
 Whey they saw Omie's body go floating away.

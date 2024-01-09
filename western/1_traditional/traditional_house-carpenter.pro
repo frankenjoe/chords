@@ -28,7 +28,7 @@ And go along with thee
 What have you got to maintain me on
 And keep me from poverty?
 
-I own six ships out on the sea
+Well I have six ships waiting out on the sea
 Seven more upon dry land
 One hundred and ten brave sailor men
 Will be at your command
@@ -38,8 +38,8 @@ And kisses gave him three
 "Stay right here with my house carpenter
 And keep him good company"
 
-They had not been gone about two weeks
-I know it was not three
+And they had not been gone about two weeks
+I'm sure it was not three
 When this fair lady began to weep
 She wept most bitterly
 
@@ -55,10 +55,10 @@ And not for any golden store
 I do weep for my own wee babe
 Who never I shall see no more
 
-They had not been gone about three weeks
+And they had not been gone about three weeks
 I'm sure it was not four
 When their gallant ship leaked and sank
-Never to rise anymore
+Never to rise no more
 
 What hills, what hills are those, my love
 That rise so fair and high?
