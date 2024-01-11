@@ -39,8 +39,8 @@ Tell me who you love
 {eoc}
 
 Ooka, Dooka, soda cracker
-Does your mamma chew tobacka?
-If your mama chews tobacka
+Does your mamma chew tobacco?
+If your mama chews tobacco
 Ooka, Dooka, soda cracker
 
 When I go to Baltimore
