@@ -53,7 +53,7 @@
 			"title" : {
 			    // Title and subtitle.
 				"title"     : [ "%{title}", "", "" ],
-				"subtitle"  : [ "%{subtitle|%{}|%{subtitle}}", "", "%{capo|, Capo: %{}}" ],
+				"subtitle"  : [ "%{subtitle|%{}|%{subtitle}}", "", "%{capo|Capo: %{}}" ],
 			},
 		},
 
