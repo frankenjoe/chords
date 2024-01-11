@@ -8,7 +8,7 @@ There ain't no [Dm]grave can hold my body [Am]down
 
 Well, look way down the river
 What do you think I see?
-I see a band of angels,
+I see a band of angels
 And they're coming after me
 There ain't no grave can hold my body down
 There ain't no grave can hold my body down
