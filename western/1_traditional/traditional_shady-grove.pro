@@ -26,7 +26,7 @@ I wanted a Barlow knife
 Now I want my Shady Grove
 To say she'll be my wife
 
-A kiss from my Shady Grove
+And a kiss from my Shady Grove
 Sweet as brandy wine
 There ain't no girl in this whole wide world
 Prettier than mine
