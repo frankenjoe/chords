@@ -41,7 +41,7 @@ Tell me who you love
 Ooka, Dooka, soda cracker
 Does your mamma chew tobacka?
 If your mama chews tobacka
-Ooka, Dooka, Ooka, Dooka, soda cracker
+Ooka, Dooka, soda cracker
 
 When I go to Baltimore
 Ain't no carpet on the floor
