@@ -3,7 +3,7 @@
 {capo: 2}
 {columns: 2}
 
-[D]I remember one September,
+[D]Remember one September,
 [D]On one Friday night,
 [G]Stackerlee and Billy Lyon,
 [G]Had a great big fight,
@@ -45,9 +45,9 @@ You can arrest everybody,
 But you're afraid of Stackerlee,
 He's a bad man, oh, cruel Stackerlee
 
-Sheriff walked up to Stackerlee,
+Sheriff went to Stackerlee,
 He was lying there asleep,
-The sheriff he got Stackerlee,
+And the sheriff he got Stackerlee,
 When he jumped up on his feet,
 He's a bad man, oh, cruel Stackerlee
 
@@ -63,7 +63,7 @@ People coming from miles all around,
 Just to watch old Stackerlee die,
 He's a bad man, oh, cruel Stackerlee
 
-Down in New Orleans,
+And down in New Orleans,
 There's a place called Lions Club,
 Where every step you take,
 You're stepping in Billy Lyon's blood,
