@@ -8,7 +8,7 @@ There is no [Em]sickness, no toil nor danger
 In that bright [Am]land to where I [Em]go
 
 {soc}
-I'm going [C]there to see my [G]Father
+I'm going [C]there to see my [G]father
 I'm going [C]there no more to [B7]roam
 I'm only [Em]going over Jordan
 I'm only [Am]going [B7] [C] [B7]         going over [Em]home
@@ -20,7 +20,7 @@ But beautious fields arise before me
 Where God's [Am]redeemed [B7] [C] [B7]         their vigils [Em]keep
 
 {soc}
-I'm going there to see my Mother
+I'm going there to see my mother
 She said she'd meet me when I come
 I'm only going over Jordan
 I'm only going going over home
