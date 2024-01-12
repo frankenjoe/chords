@@ -8,7 +8,7 @@ Ain't no carpet [G]on the [D]floor
 We'll go down to [G]Gali[D]lee
 
 {soc}
-[D]Green, green [G]rocky [D]road 
+[D]Green, green [G]rocky [D]road
 Prome[G]nade in [D]green
 [D]Tell me who you love
 [D]Tell me who you love
@@ -20,7 +20,7 @@ She don't walk, and she don't run
 Keeps on flappin' to the sun
 
 {soc}
-Green, green rocky road 
+Green, green rocky road
 Promenade in green
 Tell me who you love
 Tell me who you love
@@ -32,7 +32,7 @@ Don't you stumble, and don't you shout
 When I sing come runnin' out
 
 {soc}
-Green, green rocky road 
+Green, green rocky road
 Promenade in green
 Tell me who you love
 Tell me who you love
@@ -49,7 +49,7 @@ Come along and follow me
 We'll go down to Galilee
 
 {soc}
-Green, green rocky road 
+Green, green rocky road
 Promenade in green
 Tell me who you love
 Tell me who you love

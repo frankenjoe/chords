@@ -112,7 +112,11 @@ def strip_lines(lines: typing.List[str]):
 
 def main(args):
 
-    paths = audeer.list_file_names(args.root, filetype='pro')
+    paths = audeer.list_file_names(
+    	args.root, 
+    	filetype='pro',
+    	recursive=True,
+    )
     for path in paths:
         with open(path, 'r') as fp:
             lines = fp.readlines()
