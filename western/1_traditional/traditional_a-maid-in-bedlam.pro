@@ -1,10 +1,10 @@
-{t:A Maid in Bedlam}
+{t:A Maid In Bedlam}
 {st:Traditional}
 
-Abroad as I was walking one evening in the spring
-I heard a maid in Bedlam so sweetly for to sing.
-Her chain she rattled with her hands and thus replied she:
-"I love my love because I know my love loves me."
+[Am]Abroad as I was [Em]walking one [Am]evening in the spring
+I heard a maid in [Em]Bedlam so [D]sweetly for to sing.
+Her [Am]chain she rattled [Em]with her hands and [Am]thus replied [Em]she:
+"I [Am]love my love [Em]because I know my [Am]love [Em]loves [Am]me."
 
 "Oh my cruel parents are being too unkind,
 They drove and punish me and trouble my mind.
@@ -14,7 +14,7 @@ I love my love because I know my love loves me.
 "Would I become a swallow ascend into the air,
 And if I lost my lover and could not find him there.
 I quickly would become a fish and search the flowing sea,
-I love my love because I know my love loves me.
+I love my love because I know my love loves me."
 
 "With straw I’ll make a garland and dress it very fine,
 I’ll mix the wame with roses lily pink and tyne.
