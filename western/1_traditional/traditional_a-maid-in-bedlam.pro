@@ -4,7 +4,7 @@
 [Am]Abroad as I was [Em]walking one [Am]evening in the spring
 I heard a maid in [Em]Bedlam so [D]sweetly for to sing.
 Her [Am]chain she rattled [Em]with her hands and [Am]thus replied [Em]she:
-"I [Am]love my love [Em]because I know my [Am]love [Em]loves [Am]me."
+"I [Am]love my love be[Em]cause I know my [Am]lo-ve [Em]loves [Am]me."
 
 "Oh my cruel parents are being too unkind,
 They drove and punish me and trouble my mind.
