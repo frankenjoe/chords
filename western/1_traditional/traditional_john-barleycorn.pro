@@ -1,6 +1,6 @@
 {t:John Barleycorn}
 {st:Traditional}
-{capo:3}
+{capo:2}
 
 There [D]were three [Am]men came [C]out [G]of the [Am]wes[A5]t[Am][A5]
 Their [D]fortunes [C]for [G]to [Am]try[A5][Am][A5]
