@@ -3,8 +3,8 @@
 
 [C]I asked my love to take a [G7]walk
 To take a walk, just a little [C]walk
-Down beside[C7] where the waters [F]flow
-Down by the [C]banks [G7]of the [C]Ohio
+And as we walked,[C7] along we [F]talked
+Of when would [C]be our [G7]wedding [C]day
 
 {soc}
 And only say that you'll be mine
@@ -46,7 +46,7 @@ And I watched her as she floated down
 And only say that you'll be mine
 In no others' arms entwine
 Down beside where the waters flow
-Down by the banks of the Ohio
+Down by the banks of the Ohio	
 {eoc}
 
 I started home between twelve and one
