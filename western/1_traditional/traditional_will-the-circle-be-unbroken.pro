@@ -17,7 +17,7 @@ In the sky, Lord, in the sky
 I said to that undertaker
 Undertaker please drive slow
 For this lady you are carrying
-Lord, I hate to see here go
+Lord, I hate to see her go
 
 {soc}
 Will the circle be unbroken
