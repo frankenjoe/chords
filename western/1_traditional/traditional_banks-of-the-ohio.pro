@@ -1,5 +1,6 @@
 {t:Banks Of The Ohio}
 {st:traditional}
+{columns: 2}
 
 [C]I asked my love to take a [G7]walk
 To take a walk, just a little [C]walk
@@ -53,4 +54,13 @@ I started home between twelve and one
 I cried, "My god, what have i done?
 Killed the only woman i loved
 Because she would not be my bride."
+
+{column_break}
+
+{soc}
+And only say that you'll be mine
+In no others' arms entwine
+Down beside where the waters flow
+Down by the banks of the Ohio	
+{eoc}
 
