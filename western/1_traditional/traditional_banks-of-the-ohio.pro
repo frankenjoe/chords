@@ -3,8 +3,8 @@
 
 [C]I asked my love to take a [G7]walk
 To take a walk, just a little [C]walk
-Down [C7]beside where the waters [F]flow
-Down by the [C]banks [G7]of the old [C]Ohio
+Down beside[C7] where the waters [F]flow
+Down by the [C]banks [G7]of the [C]Ohio
 
 {soc}
 And only say that you'll be mine

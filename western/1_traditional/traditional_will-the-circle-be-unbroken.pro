@@ -1,6 +1,6 @@
 {t:Will The Circle Be Unbroken}
 {st:Traditional}
-{capo: 2}
+{capo: 4}
 
 [C]I was standing by my window
 On one [F]cold and cloudy [C]day
@@ -38,7 +38,7 @@ There's a better home a-waiting
 In the sky, Lord, in the sky
 {eoc}
 
-When I got home, it was lonesome
+When I got home, that home was lonesome
 Missed my mother, she was gone
 All of my brothers and sisters crying
 What a home so sad and lone
