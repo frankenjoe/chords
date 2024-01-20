@@ -2,10 +2,10 @@
 {st:traditional}
 {columns: 2}
 
-[C]I asked my love to take a [G7]walk
-To take a walk, just a little [C]walk
-And as we walked,[C7] along we [F]talked
-Of when would [C]be our [G7]wedding [C]day
+[C]I asked my love to take a [G]walk
+To take a [G7]walk, just a little [C]walk
+And as we [C7]walked, along we [F]talked
+Of when would [C]be our [G]wedding [C]day
 
 {soc}
 And only say that you'll be mine
