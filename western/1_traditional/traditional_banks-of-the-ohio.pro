@@ -14,7 +14,7 @@ Down beside where the waters flow
 Down by the banks of the Ohio
 {eoc}
 
-I asked her if she'd marry me
+I asked her if she would marry me
 And my wife forever be
 She only turned her head away
 And had no other words to say
@@ -41,18 +41,18 @@ Down by the banks of the Ohio
 I took her by her golden curls
 And drug her down to the river side
 And there I threw her into drown
-And I watched her as she floated down
+And then I watched her as she floated down
 
 {soc}
 And only say that you'll be mine
 In no others' arms entwine
 Down beside where the waters flow
 Down by the banks of the Ohio	
-{eoc}
+{eoc}		
 
 I started home between twelve and one
-I cried, "My god, what have i done?
-Killed the only woman i loved
+I cried, "My god, what have I done?
+Killed the only woman I loved
 Because she would not be my bride."
 
 {column_break}
