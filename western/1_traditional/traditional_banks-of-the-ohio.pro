@@ -47,8 +47,8 @@ And then I watched her as she floated down
 And only say that you'll be mine
 In no others' arms entwine
 Down beside where the waters flow
-Down by the banks of the Ohio	
-{eoc}		
+Down by the banks of the Ohio
+{eoc}
 
 I started home between twelve and one
 I cried, "My god, what have I done?
@@ -61,6 +61,6 @@ Because she would not be my bride."
 And only say that you'll be mine
 In no others' arms entwine
 Down beside where the waters flow
-Down by the banks of the Ohio	
+Down by the banks of the Ohio
 {eoc}
 
