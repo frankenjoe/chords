@@ -52,8 +52,8 @@ Down by the banks of the Ohio
 
 I started home between twelve and one
 I cried, "My god, what have I done?
-Killed the only woman I loved
-Because she would not be my bride."
+I've killed the only girl I love
+Because she would not marry me."
 
 {column_break}
 
