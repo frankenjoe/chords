@@ -29,7 +29,7 @@ Down by the banks of the Ohio
 I held a knife against her brest
 As into my arms she pressed
 She cried, "Oh, please, don't murder me
-I'm not prepeared for eternity."
+I'm not prepared for eternity."
 
 {soc}
 And only say that you'll be mine
