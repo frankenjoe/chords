@@ -1,6 +1,6 @@
 {t:Whiskey In The Jar}
 {st:Traditional}
-{capo: 2}
+{capo: 4}
 
 As [G]I was goin' over the [Em]Cork and Kerry mountains
 I [C]saw Captain Farrell and his [G]money he was [Em]countin'
@@ -27,7 +27,7 @@ There's whiskey in the jar
 {eoc}
 
 Being drunk and weary, I went to Molly's chamber
-Takin' my Molly with me and I never knew the danger
+Takin' Molly with me and I never knew the danger
 For about six, maybe seven, in walked Captain Farrell
 I fired off my pistols, and I shot him with both barrels
 
