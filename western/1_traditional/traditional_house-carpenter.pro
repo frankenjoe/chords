@@ -51,7 +51,7 @@ Who never you shall see no more?
 {column_break}
 
 I do not weep for my house carpenter
-And not for any golden store
+Nor for any golden store
 I do weep for my own wee babe
 Who never I shall see no more
 
