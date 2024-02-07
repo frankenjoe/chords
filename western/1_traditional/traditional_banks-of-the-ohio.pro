@@ -31,16 +31,9 @@ Down by the banks of the Ohio
 {eoc}
 
 I took her by her golden curls
-And drug her down to the river side
+Drug her down to the river side
 And there I threw her into drown
 And then I watched her as she floated down
-
-{soc}
-And only say that you'll be mine
-In no others' arms entwine
-Down beside where the waters flow
-Down by the banks of the Ohio
-{eoc}
 
 I started home between twelve and one
 I cried, "My god, what have I done?

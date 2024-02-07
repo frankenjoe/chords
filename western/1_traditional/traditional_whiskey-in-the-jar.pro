@@ -38,9 +38,9 @@ Whack for my daddy-o
 There's whiskey in the jar
 {eoc}
 
-Now some men like the fishin' and some men like the fowlin'
-And some men like to hear the cannon ball a-roarin'
-And me, I like sleepin', 'specially in my Molly's chamber
+Some men like the fishin' and some men like the fowlin'
+Some men like to hear the cannon ball a-roarin'
+Me, I like sleepin', 'specially in my Molly's chamber
 But here I am in prison, here I am with a ball and chain yeah
 
 {soc}
