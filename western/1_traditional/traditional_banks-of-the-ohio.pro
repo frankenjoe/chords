@@ -38,12 +38,5 @@ And then I watched her as she floated down
 I started home between twelve and one
 I cried, "My god, what have I done?
 I've killed the only girl I love
-Because she would not marry me."
-
-{soc}
-And only say that you'll be mine
-In no others' arms entwine
-Down beside where the waters flow
-Down by the banks of the Ohio
-{eoc}
+Because she would not be my braid."
 
