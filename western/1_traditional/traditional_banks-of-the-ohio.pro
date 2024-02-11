@@ -1,5 +1,5 @@
 {t:Banks Of The Ohio}
-{st:traditional}
+{st:Traditional}
 
 [C]I asked my love to take a [G]walk
 To take a [G7]walk, just a little [C]walk
