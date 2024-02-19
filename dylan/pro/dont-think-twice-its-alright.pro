@@ -1,16 +1,16 @@
-{t:Don't Think Twice it's Alright}
+{t:Don't Think Twice It's Alright}
 {st:Bob Dylan}
 {capo:2}
 
 [C]     [G]     [Am]        [F#dim]            [G7]       [C]     [G]     [G7]       [G]     [G7]
-   
+
 [C]It ain't no use to [G]sit and wonder [Am]why, babe
 [F]If you don't know by [C]now   [G7]
 [C]It ain't no use to [G]sit and wonder [Am]why, babe
 [F#dim]It'll never do some[G7]how
 When your ro[C]oster crows at the [C7]break of dawn
 [F]Look out your window, [D7/F#]I'll be gone
-[C]You're the [G]reason [Am]I'm traveling [F]on 
+[C]You're the [G]reason [Am]I'm traveling [F]on
 [C]Don't think [G7]twice, it's al[C]right [G]     [G7]       [G]     [G7]
 
 And it ain't no use in turning on your light, babe
@@ -27,7 +27,7 @@ As you never done before
 It ain't no use in callin' out my name, gal
 I can't hear you anymore
 I'm a-thinking and a-wondering, walking down the road
-Once loved a woman, a child I been told 
+Once loved a woman, a child I been told
 I gave her my heart, she wanted my soul
 Don't think twice, it's alright
 
@@ -39,3 +39,4 @@ I ain't saying you treated me unkind
 You could have done better, I don't mind
 You just kinda wasted my precious time
 [C]Don't think [G7]twice, it's [Am]alright  [F]        [C]       [G]      [C]
+

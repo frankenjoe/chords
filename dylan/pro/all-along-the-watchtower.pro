@@ -1,9 +1,9 @@
-{t:All Along the Watchtower}
+{t:All Along The Watchtower}
 {st:Bob Dylan}
 {capo: 2}
 
 [Dm]        [Cadd9]            [Bb]       [Gm]        [Am]        [Gm]        [Bb]
-[Dm]        [Cadd9]            [Bb]       [Gm]        [Am]        [A/C#]           [Faug]
+[Dm]        [Cadd9]            [Bb]       [Gm]        [Am]        [A/C#]      [Faug]
 [Dm]There must be [Cadd9]some way [Bb]out of [Gm]here
 [Am]Said the joker to the [Gm]thief  [Bb]
 [Dm]There's [Cadd9]too much [Bb]confu[Gm]sion
@@ -13,10 +13,10 @@
 [Dm]None of [Cadd9]them al[Bb]ong the [Gm]line
 [Am]Know what any of it is [A/C#]worth   [Faug]
 
-[Dm]        [Cadd9]            [Bb]       [Gm]        [Am]        [Gm]        [Bb]
-[Dm]        [Cadd9]            [Bb]       [Gm]        [Am]        [A/C#]           [Faug]   
-[Dm]        [Cadd9]            [Bb]       [Gm]        [Am]        [Gadd9]             [Eb-A-B-F]
-[Dm]        [Cadd9]            [Bb]       [Gm]        [Am]        [A/C#]           [Faug]  
+[Dm]        [Cadd9]            [Bb]       [Gm]        [Am]        [Gm]              [Bb]
+[Dm]        [Cadd9]            [Bb]       [Gm]        [Am]        [A/C#]            [Faug]
+[Dm]        [Cadd9]            [Bb]       [Gm]        [Am]        [Gadd9]         [B7#11]
+[Dm]        [Cadd9]            [Bb]       [Gm]        [Am]        [A/C#]            [Faug]
 
 "No reason to get excited"
 The thief, he kindly spoke
@@ -35,3 +35,4 @@ Outside, in the distance
 A wildcat did growl
 Two riders were approaching
 The wind began to howl
+

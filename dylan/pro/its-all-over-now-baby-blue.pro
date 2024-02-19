@@ -20,9 +20,9 @@ Is drawing crazy patterns on your sheets
 This sky too, is folding over you
 And it's all over now, Baby Blue
 
-[C]        [C/F]          [C/G]            [C]        [C/F]          [C/G]
-[G5]          [F]        [C]       [G5]          [F]        [C]
-[D7/F#]               [F]       [C]        [D7/F#]               [F]       [G]        [C]
+[C]            [C/F]      [C/G]     [C]          [C/F]         [C/G]
+[G5]          [F]         [C]        [G5]         [F]           [C]
+[D7/F#]      [F]         [C]        [D7/F#]     [F]           [G]        [C]
 
 All the seasick sailors, they are rowing home
 And all the empty handed armies, going home
@@ -35,3 +35,4 @@ And it's all over now, Baby Blue
 Oh it's all over now, Baby Blue
 
 [C]        [C/F]          [C/G]     (4x)
+

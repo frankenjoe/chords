@@ -1,4 +1,4 @@
-{t:It Takes a Lot to Laugh, it Takes a Train to Cry}
+{t:It Takes A Lot To Laugh, It Takes A Train To Cry}
 {st:Bob Dylan}
 
 [E]Well, I'm riding on a mailtrain
@@ -27,3 +27,4 @@ Well, I wanna be your lover
 I don't wanna be your boss
 Don't say I didn't warn you
 When your train gets lost
+

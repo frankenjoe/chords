@@ -22,7 +22,7 @@ Two brothers they confessed that they had killed poor Emmett Till.
 But in the jury there were men who helped commit this aweful crime,
 So the trial it was a mockery, but nobody seemed to mind.
 
-And I saw the morning papers, oh man, I could not bear 
+And I saw the morning papers, oh man, I could not bear
 To see the smiling brothers walking down the courthouse stairs.
 For the jury found them innocent, the brothers they went free,
 While Emmett's body floats the foam of Jim Crow southern sea.
