@@ -38,7 +38,7 @@ And kisses gave him three
 "Stay right here with my house carpenter
 And keep him good company"
 
-And they had not been gone about two weeks
+And they had been gone for about two weeks
 I'm sure it was not three
 When this fair lady began to weep
 She wept most bitterly
@@ -55,13 +55,13 @@ Nor for any golden store
 I do weep for my own wee babe
 Who never I shall see no more
 
-And they had not been gone about three weeks
+And they had been gone for about three weeks
 I'm sure it was not four
 When their gallant ship leaked and sank
 Never to rise no more
 
 What hills, what hills are those, my love
-That rise so fair and high?
+Those hills so fair and high?
 Those are the hills of heaven, my love
 But not for you and I
 

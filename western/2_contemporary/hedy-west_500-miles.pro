@@ -2,9 +2,9 @@
 {st:Hedy West}
 {capo: 2}
 
-If you [C]miss the train I'm [Am]on, you will [Dm]know that I am [F]gone
+If you [Am]miss the train I'm [C]on, you will [Dm]know that I am [F]gone
 You can [Dm]hear the whistle [F]blow a hundred [G7]miles,
-A hundred [C]miles, a hundred [Am]miles, a hundred [Dm]miles, a hundred [F]miles,
+A hundred [Am]miles, a hundred [C]miles, a hundred [Dm]miles, a hundred [F]miles,
 You can [Dm]hear the whistle [G7]blow a hundred [C]miles.
 
 Lord, I'm one, Lord, I'm two, Lord, I'm three, Lord, I'm four

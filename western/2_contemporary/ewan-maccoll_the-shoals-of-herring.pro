@@ -1,5 +1,5 @@
 {t:The Shoals Of Herring}
-{st:Traditional}
+{st:Ewan MacColl}
 
 Oh it [A]was a fine [D]and a [E]pleasant [A]day
 Out of Yarmouth [A/G#]harbor [A/F#]I was fa[E]ring[E/F#][E/G#]
