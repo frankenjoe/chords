@@ -14,7 +14,7 @@ Lord, I'm 500 miles from my home
 
 Not a shirt on my back, not a penny to my name
 Lord, I can't go a-home this a-way
-This a-away, this a-way, this a-way, this a-way
+This a-way, this a-way, this a-way, this a-way
 Lord, I can't go a-home this a-way
 
 If you miss the train I'm on, you will know that I am gone
