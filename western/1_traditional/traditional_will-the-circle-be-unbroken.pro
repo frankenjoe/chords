@@ -1,6 +1,6 @@
 {t:Will The Circle Be Unbroken}
 {st:Traditional}
-{capo: 4}
+{capo: 3}
 
 [C]I was standing by my window
 On one [F]cold and cloudy [C]day

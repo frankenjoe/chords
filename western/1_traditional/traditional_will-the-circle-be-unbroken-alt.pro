@@ -1,6 +1,5 @@
 {t:Will The Circle Be Unbroken (alternate lyrics)}
 {st:Traditional}
-{capo: 2}
 
 There are loved ones in the glory
 Whose dear forms you often miss
