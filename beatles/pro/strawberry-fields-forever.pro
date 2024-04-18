@@ -1,4 +1,4 @@
-{t:Strawberry Fields}
+{t:Strawberry Fields Forever}
 {st:The Beatles}
 {capo: 4}
 {columns: 2}
