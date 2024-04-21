@@ -27,6 +27,3 @@ I [Dm]told her I didn't and crawled off to sleep in the [Em]bath[A]
 
 [D]And when I awoke, I was alone, [C]this bird [G/B]had [D]flown
 [D]So, I lit a fire, isn't it good, [C]Norwe[G/B    ]gian [D]wood
-
-[D] [C] [G/B] [D]
-[D] [C] [G/B] [D]
