@@ -13,10 +13,10 @@ So [Dm]I looked around and I noticed there wasn't a [Em]chair[A]
 [D] [C] [G/B] [D]
 [D] [C] [G/B] [D]
 
-[D]I sat on a rug, biding my time, [C]drinking [G/B]her [D]wine
-[D]We talked until two, and then she said, [C]it's time [G]for [D]bed
-She [Dm]told me she worked in the morning and started to [G/B]laugh
-I [Dm]told her I didn't and crawled off to sleep in the [Em]bath[A]
+I sat on a rug, biding my time, drinking her wine
+We talked until two, and then she said, it's time for bed
+She told me she worked in the morning and started to laugh
+I told her I didn't and crawled off to sleep in the bath
 
 [D] [C] [G/B] [D]
 [D] [C] [G/B] [D]
@@ -26,4 +26,5 @@ I [Dm]told her I didn't and crawled off to sleep in the [Em]bath[A]
 [D] [C] [G/B] [D]
 
 [D]And when I awoke, I was alone, [C]this bird [G/B]had [D]flown
-[D]So, I lit a fire, isn't it good, [C]Norwe[G/B    ]gian [D]wood
+[D]So, I lit a fire, isn't it good, [C]Norwe[G/B]gian [D]wood
+
