@@ -2,42 +2,49 @@
 {st:The Beatles}
 {capo:2}
 
-[E]What would you [B]think if I [F#m]sang out of tune,
-Would you [F#m]stand up and [B]walk out on [E]me.
-[E]Lend me your [B]ears and I'll [F#m]sing you a song,
-And I'll t[F#m]ry not to [B]sing out of [E]key.
+[A]
 
-{c:CHORUS}
+[A]What would you [E/G#]think if I [F#m7]sang out of [F#m6]tune,
+Would you [Dm]stand up and [E]walk out on [A]me.
+[A]Lend me your [E/G#]ears and I'll [F#m7]sing you a [F#m6]song,
+And I'll t[Dm]ry not to [E]sing out of [A]key.
 
 {soc}
-Oh, I get b[D]y with a little h[A]elp from my f[E]riends,
-Hmm, I get h[D]igh with a little h[A]elp from my f[E]riends,
-Hmm, gonna [A]try with a little help from my [E]friends.   [B]
+Oh, I get [F#m6]by with a little [F7]help from my [A]friends,
+Oh, I get [F#m6]high with a little [F7]help from my [A]friends,
+I'm gonna [F#m6]try with a little [F7]help from [G]my [A]friends.
 {eoc}
 
-[E]What do I [B]do when my l[F#m]ove is away.
-(Does it [F#m]worry you to [B]be a[E]lone)
-[E]How do I [B]feel by the [F#m]end of the day
-(Are you [F#m]sad because you're [B]on your [E]own)
+[A]
 
-{c:CHORUS}
+What do I do when my love is away,
+Does it worry you to be alone.
+How do I feel by the end of the day,
+Are you sad because you're on your own.
 
-Do you [C#m]need any[F#]body,
-I [E]need some[D]body to [A]love.
-Could it [C#m]be any[F#]body
-I [E]want some[D]body to [A]love.
+{soc}
+Oh, I get by with a little help from my friends,
+Oh, I get high with a little help from my friends,
+I'm gonna try with a little help from my friends.
+{eoc}
 
-[E]Would you [B]believe in a [F#m]love at first sight,
-(Yes I'm c[F#m]ertain that it [B]happens all the [E]time.)
-[E]What do you [B]see when you [F#m]turn out the light,
-(I can't [F#m]tell you, but I [B]know it's [E]mine.)
+[A]
+Do you [F#m]need any[B7]body,
+I [A]need some[G]body to [D/F#]love.
+Could it [F#m]be any[B7]body
+I [A]want some[G]body to [D/F#]love.
 
-{c:CHORUS}
+[A]
 
-Do you [C#m]need any[F#]body,
-I just [E]need some[D]one to [A]love,
-Could it [C#m]be any[F#]body,
-I [E]want some[D]body to [A]love.
+Would you believe in a love at first sight,
+Yes I'm certain that it happens all the time.
+What do you see when you turn out the light,
+I can't tell you, but I know it's mine.
 
-{c:CHORUS}
+{soc}
+Oh, I get by with a little help from my friends,
+Oh, I get high with a little help from my friends,
+I'm gonna try with a little help from my friends.
+{eoc}
 
+[Bm7/F#] [F6] [A]
