@@ -1,2 +1,0 @@
-{t:III BOOTHILL SOCIETY}
-
