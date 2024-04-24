@@ -15,7 +15,7 @@ St[Am]ill my guit[G]ar gently w[C]eeps[E]
 [A]I don't know [C#m]why n[F#m]obody [C#m]told you
 [Bm] [D/F#]How to un[Bm]fold[D/F#] your lo[E7]ve [E7sus2] [E7] [E7sus2] [Fdim7]
 [A]I don't know [C#m7]how so[F#m]meone co[C#m]ntrolled you
-[Bm] [D/F#]They [Bm]bought [D/F#]and sold [E7]you [E7sus2] [E7] [E7sus2] [E7]
+[Bm] [D/F#]They just [Bm]bought [D/F#]and sold [E7]you [E7sus2] [E7] [E7sus2] [E7]
 {eoc}
 
 [Am] [Am7] [Am6] [F/A]

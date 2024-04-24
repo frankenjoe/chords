@@ -28,6 +28,12 @@
 
     "pdf" : {
 
+		// Document properties
+		"info" : {
+			"title"  : "Western",
+			"author" : "Johannes Wagner",
+		},
+
 		// Slightly larger diagrams, shown at the right side.
 		"diagrams" : {
 			"show" :  "none",
