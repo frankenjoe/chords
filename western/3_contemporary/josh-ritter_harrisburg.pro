@@ -1,5 +1,6 @@
 {t:Harrisburg}
 {st:Josh Ritter}
+{capo: 2}
 
 [Am] Romero got married on the [F] Fifth of July, [C]
 In our Lady of Immaculate Dawn. [G]
