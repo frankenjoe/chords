@@ -1,14 +1,14 @@
 {t:Tecumseh Valley}
 {st:Townes Van Zandt}
 
-[C]The name she gave [F]was Caroline
+[C]The name she bore [F]was Caroline
 Daughter of a [C]miner
 And her ways were [F]free
 And it [C]seemed to [Am]me
 That [G]sunshine walked beside[F] her      [C]
 
 She came from Spencer
-Across the hill
+Across the hills
 She said her pa had sent her
 Cause the coal was low
 And soon the snow
@@ -16,7 +16,7 @@ Would turn the skies to winter
 
 She said she'd come
 To look for work
-She was not seeking favors
+She wasn't seeking favors
 And for a dime a day
 And a place to stay
 She'd turn those hands to labor
@@ -42,7 +42,7 @@ To lay himself beside her
 
 They found her down beneath the stairs
 That led to Gypsy Sally's
-In her hand when she died
+And in her hand when she died
 A note that cried
 Fare thee well
 Tecumseh valley
