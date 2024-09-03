@@ -9,7 +9,7 @@ That [G]sunshine walked beside[F] her      [C]
 
 She came from Spencer
 Across the hills
-She said her pa had sent her
+Her pa had sent her
 Cause the coal was low
 And soon the snow
 Would turn the skies to winter
@@ -24,7 +24,7 @@ She'd turn those hands to labor
 But times were hard, Lord
 And jobs were few
 All through Tecumseh valley
-But she asked around
+But she'd ask around
 And a job she found
 Tending bar at Gypsy Sally's
 
@@ -35,7 +35,7 @@ Her pa had died
 The word came from Spencer
 
 She turned to whorin' out on the streets
-With all the lust inside her
+With all her lust inside her
 And many a man
 Returned again
 To lay himself beside her
