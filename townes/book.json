@@ -1,0 +1,93 @@
+// Configuration for ChordPro.
+//
+// This is a relaxed JSON document, so comments are possible.
+
+{
+
+    // General settings
+    
+    "settings" : {
+    
+    	"strict" : false,
+    
+    },
+
+
+    // Metadata
+    
+    "metadata" : {
+    
+	    "keys" : [ "title", "subtitle", "capo" ],
+	    "strict" : false,
+	    "separator" : "; ",
+	    "autosplit" : true,
+
+	},
+
+    // Layout definitions for PDF output.
+
+    "pdf" : {
+
+		// Document properties
+		"info" : {
+			"title"  : "Bob Dylan",
+			"author" : "Johannes Wagner",
+		},		
+
+		// Slightly larger diagrams, shown at the right side.
+		"diagrams" : {
+			"show" :  "none",
+		},
+
+		// Beyboard diagrams, shown at the right side.
+		"kbdiagrams" : {
+			"show" :  "none",
+		},
+
+		// A {titles: left} may conflict with customized formats.
+		// Set to non-zero to ignore the directive.
+		"titles-directive-ignore" : true,
+		
+		// Make all pages look the same
+		"even-odd-pages" : 0,
+		"pagealign-songs" : 0,
+
+		// Formats.
+		"formats" : {
+			// Titles/Footers.
+			// The first page of a song has:
+			"title" : {
+			    // Title and subtitle.
+				"title"     : [ "%{title}", "", "" ],
+				"subtitle"  : [ "%{subtitle|%{}|%{subtitle}}", "", "%{capo|Capo: %{}}" ],
+			},
+		},
+
+		// Fonts.
+
+		"fonts" : {
+			"title" : {
+			"name" : "Helvetica-Bold",
+			},
+			"text" : {
+			"name" : "Helvetica",
+			},
+			"chord" : {
+			"name" : "Helvetica-Bold",
+			"size" : 10
+			},
+			"comment" : {
+			"name" : "Helvetica",
+			"size" : 12
+			},
+			"toc" : {
+			"name" : "Helvetica",
+			"size" : 11
+			},
+		},
+
+    },
+
+}
+// End of config.
+
