@@ -14,7 +14,7 @@ And[A] Bobby clapping hands we [E]sang up every [E7]song that driver [A]knew  [A
 [D]Freedom's just another word for [A]nothing left to lose
 [E7]Nothing ain't worth nothing but it's [A]free  [A7]
 [D]Feeling good was easy Lord when [A]Bobby sang the Blues
-[E7]Feeling good was good enough for me  [D#] [D] [C#] [E]
+[E7]Feeling good was good enough for me  [E] [D#] [D] [C#] [E]
 Good enough for [E7]me and Bobby McG[A]ee
 {eoc}
 
