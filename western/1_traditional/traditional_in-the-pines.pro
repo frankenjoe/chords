@@ -7,7 +7,7 @@ Tell me [A]where did you sleep last [Dm]night?
 Where the [G]sun don't ever [F]shine
 I would [A]shiver the whole night [Dm]through
 
-[Dm]   [G]   [A]
+[Dm] [G] [A]
 
 My girl, my girl, where will you go?
 I'm going where the cold wind blows
@@ -16,7 +16,7 @@ Where the sun don't ever shine
 I would shiver the whole night through
 
 Her husband was a hard working man
-Just about a mile from here
+Just 'bout a mile from here
 His head was found in a driving wheel
 His body never was found
 
