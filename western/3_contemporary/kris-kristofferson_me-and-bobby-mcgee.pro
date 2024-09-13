@@ -23,13 +23,13 @@ Bobby shared the secrets of my soul
 Standing right beside me Lord through everything I done
 Every night she kept me from the cold
 Then somewhere near Salinas Lord I let her slip away
-She was looking for the home I hope she've found
+She was looking for a home I hope she found
 Well, I'd trade all my tomorrows for a single yesterday
 Holding Bobby's body next to mine
 
 {soc}
 Freedom's just another word for nothing left to lose
-Nothing left is all she left for me
+Nothing ain't worth nothing but it's free
 Feeling good was easy Lord when Bobby sang the Blues
 Feeling good was good enough for me
 Good enough for me and Bobby McGee
