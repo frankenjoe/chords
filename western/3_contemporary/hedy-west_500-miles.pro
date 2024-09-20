@@ -1,6 +1,6 @@
 {t:500 Miles}
 {st:Hedy West}
-{capo: 4}
+{capo: 2}
 
 If you [Am]miss the train I'm [C]on, you will [Dm]know that I am [F]gone
 You can [Dm]hear the whistle [F]blow a hundred [G7]miles,
