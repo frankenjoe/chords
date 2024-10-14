@@ -1,6 +1,6 @@
 {t:The Man Who Sold The World}
 {st:David Bowie}
-{capo: 2}
+{capo:2}
 
 [E] [Am] [C] [Am]
 
