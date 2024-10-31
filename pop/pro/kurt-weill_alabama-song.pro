@@ -32,7 +32,7 @@ I tell you we must die
 
 {soc}
 Oh, moon of Alabama
-We now must say goodbye
+It's time to say goodbye
 We've lost our good old mama
 And must have whiskey, you know why
 {eoc}
@@ -50,14 +50,7 @@ I tell you we must die
 
 {soc}
 Oh, moon of Alabama
-We now must say goodbye
-We've lost our good old mama
-And must have whiskey, you know why
-{eoc}
-
-{soc}
-Oh, moon of Alabama
-We now must say goodbye
+It's time to say goodbye
 We've lost our good old mama
 And must have whiskey, you know why
 {eoc}
