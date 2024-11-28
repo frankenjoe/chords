@@ -4,8 +4,8 @@
 
 [Am]Sometimes I don't know where this dirty [Dm]road is taking me
 Some[Am]times I don't know the reason [Em]why
-I [Am]guess I'll keep on gambling
-Lots of [Dm]booze and lots of rambling
+I [Am]guess I'll keep on rambling
+Lots of [Dm]booze and lots of gambling
 It's [Am]easier than just [Em]waiting around t[Am]o die
 
 Once I had a ma, once I had a pa
