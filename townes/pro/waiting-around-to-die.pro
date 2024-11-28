@@ -29,6 +29,6 @@ Now it's two long years of waiting around to die
 Now I'm out of prison, I got me a friend at last
 He don't drink or steal or cheat or lie
 His name is Codine
-He's the finest thing I've seen
+He's the finest thing I've ever seen
 And together we're gonna wait around and die
-Yes, together we're gonna wait around and die
+And together we're gonna wait around and die
