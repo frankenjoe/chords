@@ -2,8 +2,6 @@
 {st:Townes Van Zandt}
 {capo:2}
 
-[D]
-
 When the [A]wind don't blow in [D]Amarillo
 And the [A]moon along the Gunnison don't [D]rise
 Shall I [G]cast my dreams upon your [D]love, babe
