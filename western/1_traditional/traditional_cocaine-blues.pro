@@ -1,6 +1,6 @@
 {t:Cocaine Blues}
 {st:Traditional}
-{capo: 3}
+{capo: 5}
 
 [C/G] [F] [C/G] [F] [G] [C/G]
 
