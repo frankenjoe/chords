@@ -8,7 +8,7 @@
 [Dm]I said, "Don't [Am]mind, but what do you [D]mean, I am the [Gm7]one
 Who will dance on the floor in the [Dm]round?"
 She said I am the [Gm7]one
-Who will dance on the floor in the [Dm]round 
+Who will dance on the floor in the [Dm]round
 
 [Am] [Dm] [Am]
 
@@ -44,7 +44,7 @@ Just remember to always think twice
 
 She told my baby we'd danced 'til three, then she looked at me
 Then showed a photo of a baby cryin', his eyes were like mine
-Go and dance on the floor in the round, baby
+Go and dance on the floor in the round
 
 {sob}
 People always told me, "Be careful of what you do
