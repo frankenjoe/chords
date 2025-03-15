@@ -1,6 +1,6 @@
 {t:Blowin' In The Wind}
 {st:Bob Dylan}
-{capo:7}
+{capo:9}
 
 [D]     [Dsus]          [D]     [Dsus]
 
