@@ -19,11 +19,11 @@ Don't wanna hear about it
 Every single one's got a story to tell
 Everyone knows about it
 From the Queen of England to the Hounds of Hell
-And if I catch it comin' back my way
+And if it's comin' back my way
 I'm gonna serve it to you
 And that ain't what you want to hear
 But that's what I'll do
-And the feelin' comin' from my bones
+And the message comin' from my bones
 Says, "Find a home"
 
 I'm goin' to Wichita
@@ -34,5 +34,5 @@ And I'm bleedin', and I'm bleedin', and I'm bleedin'
 Right before the Lord
 All the words are gonna bleed from me
 And I will think no more
-And the stains comin' from my blood
-Tell me, "Go back home"
+And the message comin' from my blood
+Says, "Go back home"
