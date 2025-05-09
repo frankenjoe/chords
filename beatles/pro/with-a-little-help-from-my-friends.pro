@@ -1,6 +1,6 @@
 {t:With A Little Help From My Friends}
 {st:The Beatles}
-{capo:2}
+{capo:4}
 
 [A]
 

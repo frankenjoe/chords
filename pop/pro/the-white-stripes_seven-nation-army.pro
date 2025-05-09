@@ -1,6 +1,6 @@
 {t:Seven Nation Army}
 {st:The White Stripes}
-{capo:2}
+{capo:4}
 
 [Em] [C] [B] [Em] [C] [D] [C] [B]
 
