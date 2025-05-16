@@ -5,7 +5,7 @@
 [Am]Hey mama, when you leave
 [Am]Don't leave a thing behind
 [F]I don't want [Am]nothin'
-[G]I can't use [Am]nothin'
+[Em]I can't use [Am]nothin'
 
 Take care into the hall
 And if you see my friends
