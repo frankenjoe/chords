@@ -15,9 +15,9 @@ Your daddy's [Em]rich [F#m6][Gm6] and your [F#m6]momma's good [Em]looking [F#m6]
 
 One of these mornings,
 You gonna rise up singing
-You gonna spread out your wings and take to the sky
+Spread out your wings and take to the sky
 But till that morning there ain't nothing can harm you
-With maddy and dammy standing by
+With mammy and daddy standing by
 
 [Em][F#m6][Gm6][F#m6][Em][F#m6][Gm6][F#m6]
 [Am][C][D7][B7][Cmaj13][B7]
