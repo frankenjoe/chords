@@ -35,7 +35,6 @@ But the kid is not my [Dm]son
 [Am] [Dm] [Am] [Dm] [Am] [Dm] [G#mb6] [Amb6] [Gmadd7] [Dm] [Am] [Dm] [Gm7] [Dm] [Am] [Dm] [Am]
 
 {column_break}
-
 For forty days and for forty nights, law was on her side
 But who can stand when she's in demand? Her schemes and plans
 'Cause we danced on the floor in the round
