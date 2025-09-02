@@ -43,3 +43,4 @@ Strung down your cheeks, bitter melodies turning your orbit around
 [C]Last cigar[C/B]ettes are [Am]all you can [Ammaj7]get,      tu[F]rning your orbit aro[C]und[C/B]
 [F]Last cigarettes are a[C]ll you can [C/B]get, t[F]urning your orbit ar[C]ound[C/B]
 [F]Last cigarettes are [Em]all you can get, t[F]urning your orbit ar[C]ound
+

@@ -1,4 +1,4 @@
-{t:Pancho and Lefty}
+{t:Pancho And Lefty}
 {st:Townes Van Zandt}
 {columns:2}
 
@@ -64,3 +64,4 @@ They could have had him any day
 They only let him go so wrong
 Out of kindness, I suppose
 {eoc}
+

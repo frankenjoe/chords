@@ -36,5 +36,6 @@ No one alerted you
 
 
 [Am] [Am7] [Am6] [F/A]
-[Am] [Em] [Am] [Em] 
+[Am] [Em] [Am] [Em]
 [Am]
+

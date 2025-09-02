@@ -48,3 +48,4 @@ I'm gonna try with a little help from my friends.
 {eoc}
 
 [Bm7/F#] [F6] [A]
+

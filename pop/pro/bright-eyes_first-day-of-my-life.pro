@@ -1,4 +1,4 @@
-{t:First Day of My Life }
+{t:First Day Of My Life}
 {st:Bright Eyes}
 {capo:2}
 
@@ -38,3 +38,4 @@ But I'd [D7/F#]rather be working for a paycheck
 Than [F]waiting to win the [G7]lotter[C]y[E7][Am][Am/G]
 Besides, [D7/F#]maybe this time is different
 I mean, [F]I really think you [G7]like [C]me[E7][Am][Am/G][Fmaj13][F6][Fm][Am]
+

@@ -5,7 +5,7 @@
 Queen J[C]ane l[E7]ay in [Am]lab[F]or for [C]nine [F]days or [C]more
 'Til her [Dm]women g[G]rew so [C]tir[G]ed, they [C]could no longer t[F]here
 They c[C]ould no l[F]onger[C] there [G9] [C] [E7] [Am] [F] [C] [G] [C]
- 
+
 "Good women, good women, will you do one thing for me?
 Will you open up my right side and find my baby?
 And find my baby

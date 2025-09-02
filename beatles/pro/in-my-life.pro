@@ -16,7 +16,7 @@ Some are [F#m]dead and some are [F#m6]living
 [Dm]In my life I've [A]loved them all
 {eoc}
 
-But of all these friends and lovers 
+But of all these friends and lovers
 There is no one compares with you
 And these memories lose their meaning
 When I think of love as something new
@@ -40,3 +40,4 @@ In my life I love you more
 {eoc}
 
 [A] [A6]
+

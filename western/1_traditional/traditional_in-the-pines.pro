@@ -1,4 +1,4 @@
-{t:In the Pines}
+{t:In The Pines}
 {st:Traditional}
 
 [Dm]My girl, my girl, don't [G]lie to [F]me
@@ -25,3 +25,4 @@ Tell me where did you sleep last night?
 In the pines, in the pines
 Where the sun don't ever shine
 I would shiver the whole night through
+

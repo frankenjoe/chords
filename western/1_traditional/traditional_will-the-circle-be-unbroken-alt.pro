@@ -1,4 +1,4 @@
-{t:Will The Circle Be Unbroken (alternate lyrics)}
+{t:Will The Circle Be Unbroken (alternate Lyrics)}
 {st:Traditional}
 
 There are loved ones in the glory
