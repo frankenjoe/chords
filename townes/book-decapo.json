@@ -5,18 +5,18 @@
 {
 
     // General settings
-    
+
     "settings" : {
-    
+
     	"strict" : false,
-    
+
     },
 
 
     // Metadata
-    
+
     "metadata" : {
-    
+
 	    "keys" : [ "title", "subtitle", "capo" ],
 	    "strict" : false,
 	    "separator" : "; ",
@@ -30,9 +30,9 @@
 
 		// Document properties
 		"info" : {
-			"title"  : "Bob Dylan",
+			"title"  : "Townes Van Zandt",
 			"author" : "Johannes Wagner",
-		},		
+		},
 
 		// Slightly larger diagrams, shown at the right side.
 		"diagrams" : {
@@ -47,7 +47,7 @@
 		// A {titles: left} may conflict with customized formats.
 		// Set to non-zero to ignore the directive.
 		"titles-directive-ignore" : true,
-		
+
 		// Make all pages look the same
 		"even-odd-pages" : 0,
 		"pagealign-songs" : 0,
@@ -90,4 +90,3 @@
 
 }
 // End of config.
-
