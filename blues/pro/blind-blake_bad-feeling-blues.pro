@@ -3,7 +3,7 @@
 
 [D]I got the bad feeling blues, [E7]keeps me [A7]worried all the [D]time [D7]
 I got the [G7]bad feeling blues, keeps me [A7]worried all the [D]time
-I [A7]can't get along with that [E7]high brown [A7]gal of [D]mine
+[A7]I can't get along [E7]with that high [A7]brown gal of [D]mine
 
 Look a‑here mama, you done throwed your papa down
 Look a‑here mama, you done throwed your papa down
