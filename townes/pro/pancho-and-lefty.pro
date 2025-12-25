@@ -22,7 +22,7 @@ Well, that's the way it goes
 
 {soc}
 [F]And all the federales say
-[C]They could have had him any day
+[C]They could have had him [F]any day
 They [Am]just let him hang [G]around
 Out of [F]kindness, I [Am]suppose
 {eoc}
