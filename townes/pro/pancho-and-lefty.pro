@@ -9,7 +9,7 @@ And your [C]breath's as hard as [G]kerosene
 [F]You weren't your mama's only boy
 But her [C]favorite one, it [F]seems
 She [Am]began to cry when you said good[G]bye
-And [F]sank into your [Am]dreams
+And she [F]sank into your [Am]dreams
 
 Pancho was a bandit, boys
 His horse was fast as polished steel
@@ -34,7 +34,7 @@ Ended up in Lefty's mouth
 The day they laid poor Pancho low
 Lefty split for Ohio
 Where he got the bread to go
-There ain't nobody knows
+Well, there ain't nobody knows
 
 {soc}
 And all the federales say
