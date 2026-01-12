@@ -1,4 +1,5 @@
 {t:Plans For My 31St Birthday}
+{capo:1}
 {columns: 2}
 
 [C]They say I should p[F]ray to [C]god
